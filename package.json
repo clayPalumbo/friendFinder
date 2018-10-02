@@ -1,0 +1,24 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "Homework 11",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelptape/friendFinder"
+  },
+  "author": "Clay Palumbo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelptape/friendFinder"
+  },
+  "homepage": "https://github.com/kelptape/friendFinder",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
